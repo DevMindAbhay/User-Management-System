@@ -40,6 +40,7 @@ MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 # Installation
 
 To install and run this project-install dependencies using npm and then start your server:
+
 $ npm install
 
 $ npm start
